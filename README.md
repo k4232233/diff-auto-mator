@@ -55,7 +55,7 @@ DiffAutoMator/
 
 - Python 3.7+
 - WinMerge (用于文件比较) - [下载地址](https://winmerge.org/)
-- Java (用于反编译)
+- CFR (用于反编译)
 - PyQt5 (用于图形界面)
 - BeautifulSoup4 (用于 HTML 解析)
 - Pillow (用于图像处理)
