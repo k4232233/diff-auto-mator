@@ -14,6 +14,14 @@
 
   <p>一个功能全面的 JAR 文件差异分析自动化工具，通过 WinMerge 比较两个 JAR 文件，解析差异报告，提取差异文件，反编译 .class 文件为可读的源代码，并生成批量比较任务和 Excel 报告，形成完整的 JAR 文件差异分析工作流程。</p>
 
+<table style="width: 100%; table-layout: fixed;">
+  <tr>
+    <td align="center"><img src="https://img.20011031.xyz/2026-03-24%20144327.png" width="100%"></td>
+    <td align="center"><img src="https://img.20011031.xyz/2026-03-24%20153951.png" width="100%"></td>
+    <td align="center"><img src="https://img.20011031.xyz/2026-03-24%20154153.png" width="100%"></td>
+  </tr>
+</table>
+
 </div>
 
 ## 🚀 Quickstart
